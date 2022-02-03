@@ -1,0 +1,3 @@
+"IP"-Scope_YTOfficial.aternos.me:49412
+"Port"-49412
+"Bot"-Mee6
